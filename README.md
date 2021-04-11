@@ -1,1 +1,1 @@
-# projects
+# boho shopping website
